@@ -1,0 +1,6 @@
+body {
+    /*background-image: url("./assets/img/asphalt-dark-dawn.jpg");*/
+    background-image: radial-gradient(purple, green, blue);
+    background-color: green;
+    color: red;
+}
